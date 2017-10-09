@@ -45,14 +45,14 @@ const Teachers = (props) => {
     <h2>Teachers</h2>
     <div className="row">
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/angie.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/angie.png" alt="" />
         <div className="content">
           <h3 className="title">Angie McAngular</h3>
           <p>Angie is a web developer and teacher who is passionate about building scalable, data driven web apps, especially ones that address old problems with new tech!</p>
         </div>
       </div>
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/nodestradamus.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/nodestradamus.png" alt="" />
         <div className="content">
           <h3 className="title">NodeStradamus</h3>
           <p>'NodeStra' is a software engineer and philosopher trying to leave the world better than he found it. He codes for non-profits, eCommerce, and large-scale web apps.</p>
@@ -61,14 +61,14 @@ const Teachers = (props) => {
     </div>
     <div className="row">
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/geo.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/geo.png" alt="" />
         <div className="content">
           <h3 className="title">Geo 'Lo' Cation</h3>
           <p>Geo is a JavaScript developer working on large-scale applications. He's also a teacher who strives to support students in removing all barriers to learning code.</p>
         </div>
       </div>
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/ecma.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/ecma.png" alt="" />
         <div className="content">
           <h3 className="title">Ecma Scriptnstuff</h3>
           <p>Ecma found her passion for computers and programming over 15 years ago. She is excited to introduce people to the wonderful world of JavaScript.</p>
@@ -77,14 +77,14 @@ const Teachers = (props) => {
     </div>
     <div className="row">
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/jay.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/jay.png" alt="" />
         <div className="content">
           <h3 className="title">Jay Query</h3>
           <p>Jay is a developer, author of CSS: The Missing Manual, JavaScript & jQuery: The Missing Manual, and web development teacher.</p>
         </div>
       </div>
       <div className="col-sm-6">
-        <img className="img-fluid" src="img/json.png" alt="" />
+        <img className="img-fluid" src="http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4/img/json.png" alt="" />
         <div className="content">
           <h3 className="title">Json Babel</h3>
           <p>All of his professional life, Json has worked with computers online; he is a polyglot programmer and likes using the right tools for the job.</p>
