@@ -2,7 +2,7 @@
     "name": "demo-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Mariley20/routing-yarn",
+    "homepage": "https://mariley20.github.io/routing-yarn/",
     "dependencies": {
         "react": "^16.0.0",
         "react-dom": "^16.0.0",
